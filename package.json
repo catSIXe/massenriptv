@@ -1,0 +1,22 @@
+{
+  "name": "ripgeschmack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cat6e <t.me/cat6e>",
+  "license": "ISC",
+  "dependencies": {
+    "airgram": "^3.0.2",
+    "axios": "^0.19.2",
+    "file-size": "^1.0.0",
+    "get-video-dimensions": "^1.0.0",
+    "get-video-duration": "^1.0.3",
+    "mkdirp": "^1.0.4",
+    "moment": "^2.24.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "sharp": "^0.25.2"
+  }
+}
